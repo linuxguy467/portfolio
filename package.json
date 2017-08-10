@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Detailed portfolio of my work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxguy467/portfolio.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "portfolio"
+  ],
+  "author": "Matthew Hemingway",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linuxguy467/portfolio/issues"
+  },
+  "homepage": "https://github.com/linuxguy467/portfolio#readme"
+}
